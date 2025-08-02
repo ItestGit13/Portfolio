@@ -2,14 +2,14 @@
 <h3 align="center">🚀 Full Stack Developer | Node.js | PHP | JavaScript | MySQL | MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=2.8%2B+Years+of+Professional+Experience;Backend-Focused+Full+Stack+Developer;Clean+Code+%7C+Scalable+Architecture+%7C+API+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=3.1%2B+Years+of+Professional+Experience;Backend-Focused+Full+Stack+Developer;Clean+Code+%7C+Scalable+Architecture+%7C+API+Expert" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 💼 2.8+ years of experience building scalable, modular applications  
+- 💼 3+ years of experience building scalable, modular applications  
 - 🧠 Strong in **Node.js**, **PHP**, **JavaScript**, and REST API development  
 - 💡 Passionate about solving real-world problems with efficient code  
 - 🌍 Based in **Chandigarh, India**
